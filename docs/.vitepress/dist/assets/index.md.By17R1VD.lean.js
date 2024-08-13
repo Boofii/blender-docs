@@ -1,0 +1,1 @@
+import{_ as e,c as a,o,a2 as i}from"./chunks/framework.DlC1fzyH.js";const g=JSON.parse('{"title":"Blender Documentation","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),t={name:"index.md"},n=i("",26),s=[n];function l(r,d,h,c,u,p){return o(),a("div",null,s)}const f=e(t,[["render",l]]);export{g as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as e,a2 as i}from"./chunks/framework.DlC1fzyH.js";const E=JSON.parse('{"title":"Game Hooks","description":"","frontmatter":{},"headers":[],"relativePath":"game_hooks.md","filePath":"game_hooks.md"}'),t={name:"game_hooks.md"},n=i("",8),o=[n];function h(l,p,r,k,d,c){return e(),a("div",null,o)}const y=s(t,[["render",h]]);export{E as __pageData,y as default};
