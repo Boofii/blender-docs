@@ -10,6 +10,10 @@ module.exports = {
             { text: 'Custom Weapons', link: '/custom_weapons'},
             { text: 'Custom Supers', link: '/custom_supers'},
             { text: 'Custom Shop Items', link: '/custom_items' },
+            { text: 'Custom Assets', link: '/custom_assets'},
+            { text: 'Custom Audio', link: '/custom_audio'},
+            { text: 'Persistent Data', link: '/persistent_data'},
+            { text: 'Custom Levels', link: '/custom_levels' },
             { text: 'Helpful Tools', link: '/tools' }
         ]
     }

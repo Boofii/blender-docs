@@ -35,8 +35,8 @@ LocalizationPatcher.RegisterLocalization(new Identifier("ModName", "Path\\To\\Fi
 
 ## Unique translations
 Sometimes when adding custom content such as charms, Cuphead looks for certain keys.
-For a charm's name for example, it will be `charm_id_name`.<br>
-For a charm's subtext and description it will be `charm_id_subtext` and `charm_id_description`.
+1) For a charm's name for example, it will be `charm_id_name`.<br>
+2) For a charm's subtext and description it will be `charm_id_subtext` and `charm_id_description`.
 ::: info
-For weapon keys it will be the same but with the `weapon_id` instead.
+For weapon keys it will be the same but with the `weapon_id` instead, The same is true for supers.
 :::

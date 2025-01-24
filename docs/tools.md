@@ -12,3 +12,10 @@ This tool takes `Assembly-CSharp` and creates a publicized version of it,
 which means that all of its private fields, methods and more will become public.
 Cuphead hides many of the important fields and this tool allows you to use them without reflection.
 You can get it by following the instructions [here](https://github.com/BepInEx/BepInEx.AssemblyPublicizer#readme).
+:::
+::: details Unity Modding Template
+This is a unity project that contains audio clips, scripts, map and level templates, an asset bundle generator and more.
+You can use it as a project to make your asset bundles in and it's especially helpful when creating custom maps and levels,
+since you have everything you need already there.
+You can download this unity project [here](https://drive.google.com/file/d/1gERIJdGg7x5gvWvJpsNUzsniijEc-J2x/view?usp=drive_link).
+:::
